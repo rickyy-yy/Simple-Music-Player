@@ -1,0 +1,7 @@
+C:\Users\Richie\Documents\C#\Simple Music Player\Simple Music Player\bin\Debug\Simple Music Player.exe.config
+C:\Users\Richie\Documents\C#\Simple Music Player\Simple Music Player\bin\Debug\Simple Music Player.exe
+C:\Users\Richie\Documents\C#\Simple Music Player\Simple Music Player\bin\Debug\Simple Music Player.pdb
+C:\Users\Richie\Documents\C#\Simple Music Player\Simple Music Player\obj\Debug\Simple Music Player.csproj.AssemblyReference.cache
+C:\Users\Richie\Documents\C#\Simple Music Player\Simple Music Player\obj\Debug\Simple Music Player.csproj.CoreCompileInputs.cache
+C:\Users\Richie\Documents\C#\Simple Music Player\Simple Music Player\obj\Debug\Simple Music Player.exe
+C:\Users\Richie\Documents\C#\Simple Music Player\Simple Music Player\obj\Debug\Simple Music Player.pdb
